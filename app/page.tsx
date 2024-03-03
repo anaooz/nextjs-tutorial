@@ -21,10 +21,6 @@ export default function Page() {
               Next.js Learn Course
             </a>
             , brought to you by Vercel.
-            <br />
-            <a href="http://localhost:3000/dashboard" className="text-blue-500">
-              Dashboard
-            </a>
           </p>
           <Link
             href="/login"
